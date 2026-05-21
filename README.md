@@ -14,7 +14,7 @@ El análisis complementa la caracterización en 1D (bioinformática de secuencia
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 proyecto_eaat2/
@@ -42,13 +42,13 @@ proyecto_eaat2/
 
 ---
 
-## 🔬 Pregunta Científica Central
+## Pregunta Científica Central
 
 > **¿Cómo alteran las mutaciones G82R y L85P en el dominio de trimerización de EAAT2 la conductancia del transportador y, en consecuencia, la excitabilidad neuronal medible mediante el modelo de Hodgkin-Huxley?**
 
 ---
 
-## 🧬 Sistema Bioeléctrico Estudiado
+## Sistema Bioeléctrico Estudiado
 
 | Parámetro | Valor |
 |-----------|-------|
@@ -61,7 +61,7 @@ proyecto_eaat2/
 
 ---
 
-## ⚡ Fundamentos del Curso Aplicados
+##  Fundamentos del Curso Aplicados
 
 1. **Ecuación de Nernst / Goldman-Hodgkin-Katz** — Potencial de equilibrio del Na⁺ y K⁺ bajo condiciones de gradiente alterado por acumulación de glutamato extracelular.
 2. **Circuito RC equivalente de membrana** — Modificación de la conductancia de membrana (g_leak) cuando EAAT2 falla y acumula cargas extracelulares.
@@ -70,7 +70,7 @@ proyecto_eaat2/
 
 ---
 
-## 🚀 Cómo Reproducir el Análisis
+##  Cómo Reproducir el Análisis
 
 ### Requisitos
 ```bash
@@ -91,13 +91,13 @@ Ver instrucciones detalladas en [`pymol_protocol/PROTOCOLO_PYMOL_FOLDX.md`](pymo
 
 ---
 
-## 👥 División del Trabajo (9 integrantes)
+##  División del Trabajo (9 integrantes)
 
 Ver [`manuscript/GUIA_MANUSCRITO.md`](manuscript/GUIA_MANUSCRITO.md) para la asignación propuesta por sección.
 
 ---
 
-## 📚 Referencias Clave
+## Referencias Clave
 
 - Zhang, Z., et al. (2022). Structural basis of ligand binding modes of human EAAT2. *Nature Communications*, 13(1), 3329. DOI: 10.1038/s41467-022-31031-x
 - Hodgkin, A. L., & Huxley, A. F. (1952). A quantitative description of membrane current. *Journal of Physiology*, 117(4), 500–544.
