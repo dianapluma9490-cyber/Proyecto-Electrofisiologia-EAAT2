@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este repositorio contiene el pipeline computacional completo para el análisis integrativo del transportador de aminoácidos excitatorios EAAT2 (gen *SLC1A2*) en el contexto de la **Encefalopatía Epiléptica del Desarrollo (DEE41)**, causada por mutaciones puntuales G82R y L85P en el dominio de trimerización.
 
